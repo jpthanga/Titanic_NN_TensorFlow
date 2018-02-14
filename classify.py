@@ -57,7 +57,6 @@ out['Survived'] = prediction.astype(int)
 
 out.to_csv("final.csv",columns=['PassengerId','Survived'],index=False)
 
-print(out)
 
 
 
