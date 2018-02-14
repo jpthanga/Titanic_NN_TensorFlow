@@ -1,4 +1,4 @@
-###Titanic using Neural Nets and Tensorflow
+### Titanic using Neural Nets and Tensorflow
 
 This program deals with the titanic dataset available on kaggle. The goal of the program is to predict which passengers survived based on a number of criteria provided.
 
@@ -9,6 +9,6 @@ The program is divided into 2 files:
 The classifier achieved a accuracy of 72%. 
 
 Skills Used: Python with numPy, pandas and TensorFlow.
-#####References  
+##### References  
 * TensorFlow documentation
 * https://beckernick.github.io/neural-network-scratch/
